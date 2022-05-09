@@ -19,9 +19,11 @@ A command-line application that takes information about employees on a software 
 
 ## Support
 
-For support, email mcneal.jalen@yahoo.com
+For support, email <mcneal.jalen@yahoo.com>
 
 ## AURTHOR
 @ja1993en
 
 ## Video of functioning application
+
+https://user-images.githubusercontent.com/98197541/167504844-2837abdf-5988-4000-9cf8-1e6b5637b16b.mp4
